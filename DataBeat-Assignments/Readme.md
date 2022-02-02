@@ -1,6 +1,6 @@
 # Assignments
- 1) Python Code is in Q1PYTHON.py file
- 2) SQL Queries are in 
+1) Python Code is in Q1PYTHON.py file
+2) SQL Queries are in 
 
  Q1_SQL_QUERIES.sql
  
